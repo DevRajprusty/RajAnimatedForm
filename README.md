@@ -18,7 +18,7 @@ In a world filled with mundane forms, I aimed to craft something different—for
 - Rich Documentation: Step-by-step guides to help you integrate and customize easily.
 
 🚀 Live Demo
-Want to see the magic in action? Check out the live demo ([https://github.com/ayushman012/AnimatrixForm]).
+Want to see the magic in action? Check out the live demo ([https://github.com/DevRajprusty/RajAnimatedForm]).
 
 🛠 Installation
 
@@ -64,9 +64,9 @@ I’d love to see how you can enhance this project! If you have ideas, features,
 
 For questions, feedback, or collaboration, don’t hesitate to reach out:
 
-- Email: (mailto:ayushmantripathy@012.com)
+- Email: (mailto:ayushmantripathy013@gmail.com)
 - Instagram: (https://instagram.com/regd.ayushman)
-- LinkedIn: (https://www.linkedin.com/in/ayushman-tripathy-7bb149295/)
+- LinkedIn: (https://www.linkedin.com/in/k-raj-kumar-prusty-8a7b0a296/)
 
 📜 License
 This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE) file.
